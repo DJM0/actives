@@ -1,5 +1,7 @@
 # Actives 🎿
 
+![alt tag](https://raw.github.com/davidmaitland/actives/master/demo.gif)
+
 Display how many people are on your website using a Raspberry Pi Zero and a Pimoroni Scroll pHAT.
 
 It uses web sockets to track how many people are on your website at and one point in time. On the Zero it uses the [scroll-phat library](https://github.com/pimoroni/scroll-phat) from Pimoroni.
