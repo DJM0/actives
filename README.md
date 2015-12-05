@@ -32,7 +32,7 @@ You can start the program on automatically boot by adding `/home/pi/zero/actives
 
 ## Setting up your website (tracking code)
 
-Add the tracking script near the bottom of your site (after </body> before </html>).
+Add the tracking script near the bottom of your site (after `</body>` before `</html>`).
 
 ```
 <script src="https://cdn.socket.io/socket.io-1.3.7.js"></script>
